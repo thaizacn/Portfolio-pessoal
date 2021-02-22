@@ -1,2 +1,2 @@
-# Portfolio-pessoal
-Meu portfólio estudantil completo.
+# JavaScript
+Introdução ao JavaScript
